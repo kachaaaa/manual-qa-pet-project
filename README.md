@@ -37,3 +37,10 @@ Bugs were reported in Jira with detailed:
 
 ## 👤 Author
 Sergey — Junior QA Engineer
+
+## 📑 QA Artifacts
+
+- **Test Cases (Google Sheets)**: [Тест-кейсы регистрация](https://docs.google.com/spreadsheets/d/1VKT1emF__CctwQsU0Hn45Lv4Pn6yfkII22VNgRxaGHo/edit?gid=0#gid=0)
+- **Negative Test Cases (Google Sheets)**: [Негативные сценарии](https://docs.google.com/spreadsheets/d/1fIjZ8Sa841E8fl_JwazNen5SLar9uiDwvIbkxnIRxYk/edit?gid=0#gid=0)
+- **Bug Reports (Jira)**: [Jira Board](https://kachaaaa-1764495864858.atlassian.net/jira/core/projects/QA/board?filter=&groupBy=status)
+- **Test Summary Report (Google Sheets)**: [Отчёт по тестам](https://docs.google.com/spreadsheets/d/1l8bFqnkBOeOEysat_yc4bRbESUjGt6_BSuPP2busgVs/edit?gid=0#gid=0)

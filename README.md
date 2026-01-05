@@ -36,7 +36,7 @@ Bugs were reported in Jira with detailed:
   https://github.com/kachaaaa/api-testing-gorest
 
 ## 👤 Author
-Sergey — Junior QA Engineer
+Sergey Taranovskiy — Junior QA Engineer
 
 ## 📑 QA Artifacts
 
